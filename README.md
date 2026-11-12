@@ -48,6 +48,14 @@
 
 ### 📌 Featured Projects
 
+
+**[CareBridge Portal](https://github.com/Lashini02/CareBridge-Portal)** 
+A role-based healthcare web application that provides separate access for doctors and patients using WSO2 Asgardeo authentication and authorization. `React` `WSO2 Asgardeo` `OIDC` `PKCE`
+
+**[ResumeIQ – Resume & Job Match Analyzer](https://github.com/Lashini02/ResumeIQ.git)** 
+An AI-powered web application that analyzes resumes against job descriptions, identifies matched and missing skills, and generates a resume match score with a downloadable PDF report. `React` `Python` `Flask` `Machine Learning` `PyMuPDF`
+
+
 **[Smart Resume Builder](https://github.com/Lashini02/Smart-Resume-Builder)**
 A lightweight web application that lets users generate a professional resume dynamically, with a live preview as they fill in their details.
 `JavaScript`
@@ -62,9 +70,9 @@ A dynamic web app built with PHP, HTML, CSS, and JavaScript that helps users qui
 
 **[Hotel & Travel Booking System](https://github.com/Lashini02/Hotel-Travel-Booking-System)**
 A booking system web application for managing hotel and travel reservations.
-`HTML`
+`HTML` `MongoDB` `Postman` `Docker`
 
-**Contributed to: [NCN ERP System](https://github.com/NishanDM/NCN_ERP_SYSTEM)**
+**Contributed to as a intern Frontend Developer: [NCN ERP System](https://github.com/NishanDM/NCN_ERP_SYSTEM)**
 A default ERP system built for retail purposes.
 `TypeScript`
 
